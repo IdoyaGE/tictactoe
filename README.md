@@ -1,2 +1,2 @@
-# tictactoe.js
+# tictactoe
 JavaScript Tres en Raya
